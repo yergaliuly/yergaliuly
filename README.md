@@ -12,13 +12,13 @@ Building useful software, learning every day.
 
 ## About Me
 
-<img align="right" src="assets/about.png" alt="Sasuke Uchiha holding a sword in a moonlit forest" width="260">
-
 I'm a student at **Astana IT University**, focused on Java and backend development.
 
 I learn through practical projects with teammates, improving my understanding of APIs, databases, and software testing.
 
-<br clear="all">
+<p align="center">
+  <img src="assets/about.png" alt="Sasuke Uchiha holding a sword in a moonlit forest" width="260">
+</p>
 
 ## Tech Stack
 
