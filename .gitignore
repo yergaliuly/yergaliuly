@@ -1,0 +1,28 @@
+# Local references and previews
+/input/
+/preview/
+/previews/
+
+# Editor and operating-system files
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+
+# Source video and temporary output
+*.mp4
+*.mov
+*.webm
+*.avi
+*.log
+*.tmp
