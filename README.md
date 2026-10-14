@@ -1,23 +1,50 @@
-<h1 align="center">yergaliuly</h1>
-
 <p align="center">
-  <strong>Java · Backend Development</strong><br>
-  Learning to turn ideas into useful backend applications.
+  <img src="assets/banner.png" alt="Sasuke Uchiha beneath a moonlit sky, with a red Sharingan accent" width="736">
 </p>
 
-## About
+# Hi, I'm yergaliuly
 
-I'm a student at **Astana IT University (AITU)**, focusing on Java and backend development. I build practical projects with teammates and learn through the process.
+**Java · Backend Development**
 
-<p align="center">
-  <img src="assets/marin.gif" alt="Marin Kitagawa animation in a dark room with manga artwork and muted pink accents" width="310">
+Building useful software, learning every day.
+
+---
+
+## About Me
+
+<img align="right" src="assets/about.png" alt="Sasuke Uchiha holding a sword in a moonlit forest" width="260">
+
+I'm a student at **Astana IT University**, focused on Java and backend development.
+
+I learn through practical projects with teammates, improving my understanding of APIs, databases, and software testing.
+
+<br clear="all">
+
+## Tech Stack
+
+<p>
+  <img src="assets/tech/java.svg" alt="Java" width="104">
+  <img src="assets/tech/spring-boot.svg" alt="Spring Boot" width="104">
+  <img src="assets/tech/postgresql.svg" alt="PostgreSQL" width="104">
+  <img src="assets/tech/git.svg" alt="Git" width="104">
 </p>
 
-## Tech
+Java · Spring Boot · PostgreSQL · Git
 
-`Java` · `Spring Boot` · `PostgreSQL` · `Git`
+## Featured Project
 
-## Projects
+### [StudyMate](https://github.com/yergaliuly/StudyMate)
 
-**[StudyMate](https://github.com/yergaliuly/StudyMate)**<br>
-A collaborative study app for turning PDFs into notes and quizzes, with saved results.
+A study app that turns PDF materials into notes and quizzes, with saved results and learning history.
+
+`Java` · `Spring Boot` · `PostgreSQL`
+
+[View on GitHub →](https://github.com/yergaliuly/StudyMate)
+
+---
+
+<p align="right">
+  <img src="assets/footer-art.png" alt="Sasuke seated beneath a torii gate overlooking a moonlit landscape" width="352">
+</p>
+
+<p align="center">Always learning. Always building.</p>

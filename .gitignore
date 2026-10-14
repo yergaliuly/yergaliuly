@@ -2,6 +2,10 @@
 /input/
 /preview/
 /previews/
+/reference/
+/sasuke_profile_assets.zip
+/crop-manifest.json
+/preview.jpg
 
 # Editor and operating-system files
 /.vscode/
