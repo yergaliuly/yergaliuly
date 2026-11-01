@@ -47,5 +47,7 @@
 
 - [x] Validate relative paths, XML, sources, catalog/PDF invariance, Markdown API output and real details/picture retention.
 - [x] Prepare clearly labeled manual previews outside Git; do a separate self-review of the staged diff.
-- [ ] Create local commit and concrete publication manifest; ask for publication approval once.
-- [ ] After approval, publish to `main` and verify the actual profile at 1280 and 390 px with genuine screenshots.
+- [x] Create local commit and concrete publication manifest; ask for publication approval once.
+- [x] After approval, publish to `main` and verify the actual profile at 1280 and 390 px with genuine screenshots.
+
+Result: `0ebb886` published in public `main`; both widths passed in dark theme, all 17 images loaded, GIF motion captured on both widths, details opened/closed/reopened, code blocks do not overflow. Viewport restored. See project status for evidence and untested theme/reduced-motion cases.
