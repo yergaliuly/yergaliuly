@@ -1,6 +1,6 @@
 # Technology icon sources
 
-These four SVG files are unmodified copies from [Devicon](https://github.com/devicons/devicon), pinned to commit `6a37858047b0e8d9c9c0e68f4a071fc410652e89` and downloaded on 2026-10-15. Each has a `0 0 128 128` viewBox.
+The SVG artwork comes from [Devicon](https://github.com/devicons/devicon), pinned to commit `6a37858047b0e8d9c9c0e68f4a071fc410652e89`. The original four icons were downloaded on 2026-10-15; the eight Lab additions were fetched from the same revision on 2026-11-01. Original logo shapes and colors are preserved.
 
 | Local file | Original source |
 | --- | --- |
@@ -8,6 +8,14 @@ These four SVG files are unmodified copies from [Devicon](https://github.com/dev
 | `spring.svg` | [spring-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/spring/spring-original.svg) |
 | `postgresql.svg` | [postgresql-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/postgresql/postgresql-original.svg) |
 | `git.svg` | [git-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/git/git-original.svg) |
+| `python.svg` | [python-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/python/python-original.svg) |
+| `docker.svg` | [docker-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/docker/docker-original.svg) |
+| `maven.svg` | [maven-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/maven/maven-original.svg) |
+| `githubactions.svg` | [githubactions-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/githubactions/githubactions-original.svg) |
+| `javascript.svg` | [javascript-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/javascript/javascript-original.svg) |
+| `react.svg` | [react-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/react/react-original.svg) |
+| `nodejs.svg` | [nodejs-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nodejs/nodejs-original.svg) |
+| `kotlin.svg` | [kotlin-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/kotlin/kotlin-original.svg) |
 
 The Spring leaf identifies the Spring ecosystem; the README names the specific technology, Spring Boot, in readable text.
 

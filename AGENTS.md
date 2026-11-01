@@ -2,9 +2,10 @@
 
 - This repository is the GitHub Profile README for `yergaliuly/yergaliuly`, not a website or an application.
 - Explain actions, commands, and results to the owner in Russian. Keep the public profile text in natural English; keep `docs/PROFILE_GUIDE.md` in Russian.
-- Preserve the approved professional technical portfolio direction: graphite and blue, one restrained banner, concise native text, real projects and verifiable credentials. Do not display the previous anime themes.
+- Preserve the owner's selected Daniyar's Lab direction: an original illustrated night workspace, purple/cyan light, playful project covers, compact colored icons and native disclosure blocks. Keep the verified professional content and readable native text.
 - Preserve original files and history, including the unused PNGs, legacy `assets/marin.gif`, icons and licenses. New vector graphics must be self-contained; preserve asset proportions and inspect their render before delivery.
-- Keep the composition: identity and LinkedIn, short About, selected projects, grouped technology toolkit, selected credentials, HackAlem participation and a quiet ending. Keep the full credential catalog in `docs/CERTIFICATIONS.md`.
+- Keep the composition: one animated hero, native-text identity/LinkedIn, concise JSON About, four Lab builds, icon toolkit, `open /lab`, Proof of work and a quiet ending. Keep the full credential catalog in `docs/CERTIFICATIONS.md`.
+- Limit motion to the hero's calm 6–8 second local GIF, without flashing or invented activity indicators. Preserve its static SVG and use the reduced-motion picture source when supported. Do not add running services or statistics workflows for decoration.
 - The mockup is visual guidance, not evidence of profile facts. Never reproduce fake achievements, decorative star counts or unsupported metrics.
 - Check side-by-side layouts at narrow widths. Use a vertical layout if tables or floats harm readability; do not promise a pixel-perfect copy of the mockup.
 - Keep image paths relative, filenames case-correct, and alt text descriptive. Use Markdown and GitHub-supported HTML; no custom CSS, scripts, or embeds in the README.
