@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/lab/room.svg">
-  <img src="assets/lab/hero.gif" alt="Daniyar's Lab: an illustrated night workspace with purple and cyan monitors, a rainy city window and an API-to-model animation" width="1000">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/lab/future/hero.svg">
+  <img src="assets/lab/future/hero.gif" alt="Daniyar's Lab: a floating violet model core above glass layers, connected to an API and a database by a calm cyan request animation" width="1000">
 </picture>
 
 # Daniyar Yergalyuly
@@ -8,6 +8,7 @@
 **Java Backend · Applied AI**
 
 [Explore the builds](#lab-builds) ·
+[Toolkit](#toolkit) ·
 [Open the lab](#lab-notes) ·
 [LinkedIn](https://www.linkedin.com/in/daniyar-yergalyuly-8b6363447/) ·
 [KDvibers](https://github.com/KDvibers)
@@ -30,7 +31,7 @@ I like the part where an idea becomes something we can actually test.
 
 ### [FocusDuo](https://github.com/KDvibers/FocusDuo)
 
-[![FocusDuo illustrated cover: two synchronized clocks](assets/lab/project-focusduo.svg)](https://github.com/KDvibers/FocusDuo)
+[![FocusDuo illustrated module: two connected clocks above a glass platform](assets/lab/future/project-focusduo.svg)](https://github.com/KDvibers/FocusDuo)
 
 A desktop app for two-person focus sessions, shared timers and session history.
 Built as a team project with a Java backend and a Kotlin/Compose client.
@@ -41,7 +42,7 @@ Built as a team project with a Java backend and a Kotlin/Compose client.
 
 ### [HackAtlas](https://github.com/KDvibers/HackAtlas)
 
-[![HackAtlas illustrated cover: connected event markers](assets/lab/project-hackatlas.svg)](https://github.com/KDvibers/HackAtlas)
+[![HackAtlas illustrated module: connected event markers on a floating map](assets/lab/future/project-hackatlas.svg)](https://github.com/KDvibers/HackAtlas)
 
 A hackathon discovery app. My responsibility: backend services, infrastructure
 and server CI, alongside a teammate building the mobile client.
@@ -50,7 +51,7 @@ and server CI, alongside a teammate building the mobile client.
 
 ### [Forte Cash Audit](https://github.com/KDvibers/forte-cash-audit)
 
-[![Forte Cash Audit illustrated cover: video frames and an evidence timeline](assets/lab/project-forte.svg)](https://github.com/KDvibers/forte-cash-audit)
+[![Forte Cash Audit illustrated module: layered video frames and an evidence timeline](assets/lab/future/project-forte.svg)](https://github.com/KDvibers/forte-cash-audit)
 
 Local video analysis with timestamps and original evidence frames.
 My responsibility: the analyzer, local model runtime and evaluation;
@@ -60,7 +61,7 @@ my teammate develops the web interface and application API.
 
 ### [StudyMate](https://github.com/yergaliuly/StudyMate)
 
-[![StudyMate illustrated cover: a document becomes notes and a quiz](assets/lab/project-studymate.svg)](https://github.com/yergaliuly/StudyMate)
+[![StudyMate illustrated module: a document becomes notes and a quiz](assets/lab/future/project-studymate.svg)](https://github.com/yergaliuly/StudyMate)
 
 A team-built study app that turns PDFs into notes and quizzes,
 with saved results and learning history.
@@ -69,16 +70,12 @@ with saved results and learning history.
 
 ## Toolkit
 
-<p>
-  <img src="assets/icons/java.svg" alt="Java" width="60">
-  <img src="assets/icons/spring.svg" alt="Spring Boot and the Spring ecosystem" width="60">
-  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="60">
-  <img src="assets/icons/python.svg" alt="Python" width="60">
-  <img src="assets/icons/docker.svg" alt="Docker" width="60">
-  <img src="assets/icons/git.svg" alt="Git" width="60">
-  <img src="assets/icons/maven.svg" alt="Maven" width="60">
-  <img src="assets/icons/githubactions.svg" alt="GitHub Actions" width="60">
-</p>
+Tools behind my backend and analyzer work.
+
+<picture>
+  <source media="(max-width: 760px)" srcset="assets/lab/future/toolkit-mobile.svg">
+  <img src="assets/lab/future/toolkit.svg" alt="Eight named technology cards: Java, Spring Boot, PostgreSQL, Python, Docker, Git, Maven and GitHub Actions" width="1000">
+</picture>
 
 Java · Spring Boot · PostgreSQL · Python · Docker · Git · Maven · GitHub Actions
 
@@ -97,12 +94,10 @@ Testcontainers and OpenAPI. My completed coursework also covers Selenium and Pos
 **Across our team projects:** JavaScript, React, Vite, Node.js, Express,
 Prisma, Kotlin and Compose.
 
-<p>
-  <img src="assets/icons/javascript.svg" alt="JavaScript, used across our team projects" width="48">
-  <img src="assets/icons/react.svg" alt="React, used across our team projects" width="48">
-  <img src="assets/icons/nodejs.svg" alt="Node.js, used across our team projects" width="48">
-  <img src="assets/icons/kotlin.svg" alt="Kotlin, used across our team projects" width="48">
-</p>
+<picture>
+  <source media="(max-width: 760px)" srcset="assets/lab/future/team-toolkit-mobile.svg">
+  <img src="assets/lab/future/team-toolkit.svg" alt="Named cards for technologies across our team projects: JavaScript, React, Node.js and Kotlin" width="1000">
+</picture>
 
 </details>
 

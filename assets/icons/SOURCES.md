@@ -35,3 +35,9 @@ The standalone cards in `../tech/` embed the corresponding original Devicon SVG 
 | `../tech/git.svg` | `git.svg` |
 
 The cards are self-contained vector files with no external images, scripts, or font downloads. The included [MIT license](LICENSE) also accompanies these derived copies.
+
+## Future Lab toolkit panels
+
+The four panels in `../lab/future/toolkit.svg`, `toolkit-mobile.svg`, `team-toolkit.svg` and `team-toolkit-mobile.svg` embed the eight core and four team-project icons listed above. The original inner SVG artwork, colors and gradients are retained; the nested viewport positions and scales each icon. Internal IDs and their references receive a per-icon prefix to prevent gradient and clip-path collisions between logos. Glass platforms, backgrounds and readable labels are original local presentation additions. Desktop panels use four columns and mobile panels use two. The same MIT license applies to the embedded Devicon artwork.
+
+The accompanying hero and project illustrations are original local vector artwork. [Research and visual references](../../docs/superpowers/specs/2026-11-01-future-lab-design.md) informed the direction; no third-party profile assets or statistics were copied.

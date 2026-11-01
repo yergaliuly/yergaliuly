@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title"><title id="title">Daniyar's Lab — a holographic workbench for Java backend and applied AI</title>
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1027"/><stop offset=".48" stop-color="#080D1D"/><stop offset="1" stop-color="#0A1230"/></linearGradient>
+  <radialGradient id="violet"><stop stop-color="#7541E5" stop-opacity=".55"/><stop offset="1" stop-color="#7541E5" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cyan"><stop stop-color="#00D9F5" stop-opacity=".3"/><stop offset="1" stop-color="#00D9F5" stop-opacity="0"/></radialGradient>
+  <linearGradient id="titleFill" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".5" stop-color="#EBE6FF"/><stop offset="1" stop-color="#A7CFFF"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263B6A" stop-opacity=".9"/><stop offset=".5" stop-color="#151D3D" stop-opacity=".8"/><stop offset="1" stop-color="#342758" stop-opacity=".9"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#55E8F5"/><stop offset=".48" stop-color="#6079BF"/><stop offset="1" stop-color="#A48AFF"/></linearGradient>
+  <linearGradient id="base"><stop stop-color="#1A2B56"/><stop offset="1" stop-color="#282049"/></linearGradient>
+  <linearGradient id="gemTop" x2=".5" y2="1"><stop stop-color="#EBE3FF"/><stop offset=".43" stop-color="#B4A0FF"/><stop offset="1" stop-color="#6C5DD7"/></linearGradient>
+  <linearGradient id="gemLeft" x2="1" y2="1"><stop stop-color="#8166D8"/><stop offset="1" stop-color="#4A319F"/></linearGradient>
+  <linearGradient id="gemRight" x2="1" y2="1"><stop stop-color="#5241B4"/><stop offset="1" stop-color="#A48AFF"/></linearGradient>
+  <linearGradient id="api"><stop stop-color="#194663"/><stop offset="1" stop-color="#10243B"/></linearGradient>
+  <linearGradient id="db"><stop stop-color="#126775"/><stop offset=".55" stop-color="#163C59"/><stop offset="1" stop-color="#13223F"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="9"/></filter>
+  <filter id="bloom"><feGaussianBlur stdDeviation="3"/></filter>
+  <clipPath id="bounds"><rect x="1" y="1" width="998" height="438" rx="22"/></clipPath>
+ </defs>
+ <g clip-path="url(#bounds)">
+  <rect width="1000" height="440" fill="url(#bg)"/>
+  <ellipse cx="758" cy="202" rx="328" ry="266" fill="url(#violet)"/>
+  <ellipse cx="982" cy="380" rx="340" ry="220" fill="url(#cyan)"/>
+  <ellipse cx="34" cy="10" rx="280" ry="250" fill="url(#violet)" opacity=".3"/>
+  <g fill="none" stroke="#6B83BE" opacity=".09"><path d="M100 284L-600 440"/><path d="M165 284L-430 440"/><path d="M230 284L-260 440"/><path d="M295 284L-90 440"/><path d="M360 284L80 440"/><path d="M425 284L250 440"/><path d="M490 284L420 440"/><path d="M555 284L590 440"/><path d="M620 284L760 440"/><path d="M685 284L930 440"/><path d="M750 284L1100 440"/><path d="M815 284L1270 440"/><path d="M880 284L1440 440"/><path d="M945 284L1610 440"/><path d="M0 302H1000"/><path d="M0 326H1000"/><path d="M0 359H1000"/><path d="M0 400H1000"/></g><circle cx="456" cy="53" r="1.8" fill="#9CC6F8" opacity=".42"/><circle cx="617" cy="31" r="1" fill="#9CC6F8" opacity=".42"/><circle cx="939" cy="65" r="1" fill="#9CC6F8" opacity=".42"/><circle cx="900" cy="128" r="1.8" fill="#9CC6F8" opacity=".42"/><circle cx="548" cy="166" r="1" fill="#9CC6F8" opacity=".42"/><circle cx="970" cy="333" r="1" fill="#9CC6F8" opacity=".42"/><circle cx="520" cy="375" r="1.8" fill="#9CC6F8" opacity=".42"/><circle cx="652" cy="105" r="1" fill="#9CC6F8" opacity=".42"/>
+  <path d="M483 88Q716-10 949 96" fill="none" stroke="#685B98" opacity=".22"/>
+  <path d="M480 91Q718-2 954 99" fill="none" stroke="#4BA2BF" opacity=".12" stroke-dasharray="2 9"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+   <path d="M42 51h18m-9-9v18" stroke="#7C91CB" stroke-width="2"/><text x="71" y="58" fill="#A9BBDE" font-size="17">yergaliuly / workbench</text>
+   <text x="38" y="158" fill="url(#titleFill)" font-size="71" font-weight="700" letter-spacing="-3">Daniyar’s</text>
+   <text x="35" y="254" fill="url(#titleFill)" font-size="108" font-weight="700" letter-spacing="-5">Lab.</text>
+   <text x="43" y="296" fill="#A3DFFA" font-size="23">Java backend / Applied AI</text>
+   <text x="43" y="325" fill="#9AABCE" font-size="18">From a small idea to a working system.</text>
+  </g>
+  <rect x="42" y="358" width="360" height="45" rx="12" fill="#0E1931" stroke="#354670"/>
+  <path d="M58 374l5 6-5 6m12 1h8" stroke="#66E3ED" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="91" y="386" fill="#B8C8E9" font-family="Consolas, 'Liberation Mono', monospace" font-size="15">build / learn / repeat</text>
+  <g fill="none" stroke="url(#edge)">
+   <path d="M505 266l238-124 234 125v63L744 418 505 330Z" opacity=".12"/>
+   <path d="M514 268L744 151 967 270 744 392Z" opacity=".16"/>
+  </g>
+  <ellipse cx="747" cy="365" rx="191" ry="32" fill="#070A1E" opacity=".75"/>
+  <ellipse cx="750" cy="336" rx="161" ry="40" fill="#845AFA" opacity=".2" filter="url(#soft)"/>
+  <path d="M570 302l177-92 176 94-176 95z" fill="url(#base)" stroke="#444875"/>
+  <path d="M570 302v13l177 96 176-94v-13l-176 95z" fill="#14162F" stroke="#39385C"/>
+  <path d="M581 317l166 89 163-87" fill="none" stroke="#A48AFF" opacity=".65"/>
+  <path d="M590 270l157-82 157 84-157 85z" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.3"/>
+  <path d="M590 270v11l157 85 157-84v-10l-157 85z" fill="#1C2142" stroke="#6875B4" opacity=".65"/>
+  <path d="M608 267l139-73 138 74-138 75z" fill="none" stroke="#5C9EBE" opacity=".25"/>
+  <ellipse cx="748" cy="270" rx="82" ry="43" fill="none" stroke="#B495FF" opacity=".6"/>
+  <ellipse cx="748" cy="270" rx="63" ry="33" fill="none" stroke="#6284B6" opacity=".45"/>
+  <path d="M747 188v-31m0 127v45M590 270h33m247 0h34" stroke="#72A0C7" opacity=".55"/>
+  <path d="M747 218v56" stroke="#B299FF" stroke-width="3" opacity=".45" filter="url(#bloom)"/>
+  <g transform="translate(0 0)">
+   <ellipse cx="754" cy="170" rx="98" ry="66" fill="#8455FA" opacity="0.175" filter="url(#soft)"/>
+   <path d="M754 104l57 33-57 34-57-34z" fill="url(#gemTop)" stroke="#DDD5FF" stroke-width="1.1"/>
+   <path d="M697 137l57 34v64l-57-34z" fill="url(#gemLeft)" stroke="#A699F7" stroke-width="1.1"/>
+   <path d="M754 171l57-34v64l-57 34z" fill="url(#gemRight)" stroke="#BAA8FF" stroke-width="1.1"/>
+   <path d="M754 104v67l-57 30m57-30l57 30M725 121l57 33v64" fill="none" stroke="#E5DBFF" stroke-width=".8" opacity=".36"/>
+   <path d="M754 104l-57 33 57 34 57-34" fill="none" stroke="#F1EDFF" stroke-width="2" opacity=".7"/>
+   <circle cx="754" cy="171" r="5" fill="#EEE5FF" opacity=".82"/>
+  </g>
+  <path d="M708 116l-22-27h-55" fill="none" stroke="#A697D6" opacity=".55"/>
+  <text x="553" y="93" fill="#B5A6D9" font-family="Consolas, 'Liberation Mono', monospace" font-size="14">model.local</text>
+  <path d="M819 133l22-29h70" fill="none" stroke="#83B7DD" opacity=".6"/><circle cx="911" cy="104" r="3" fill="#68E4EF"/>
+  <text x="850" y="92" fill="#A1CCEF" font-family="Consolas, 'Liberation Mono', monospace" font-size="13">local VLM</text>
+  <g transform="translate(519 231)">
+   <path d="M-37 29l55-30 56 31-55 31z" fill="#142C47" stroke="#4C9BAE"/>
+   <path d="M-37 29v8l56 31 55-31v-7L19 61z" fill="#112038" stroke="#2A5C77"/>
+   <rect x="-23" y="-43" width="91" height="71" rx="12" fill="url(#api)" stroke="#5AACC7"/>
+   <path d="M-22-29h89" stroke="#7BD5E2" opacity=".3"/><circle cx="-11" cy="-35" r="2" fill="#6FDDE6"/>
+   <path d="M-3-11l-8 8 8 8m36-16 8 8-8 8m-13-21L10 11" stroke="#8CECF4" stroke-width="3" stroke-linecap="round" fill="none"/>
+   <text x="7" y="48" fill="#A7DCEC" font-family="Consolas, 'Liberation Mono', monospace" font-size="13">API</text>
+  </g>
+  <g transform="translate(891 237)">
+   <ellipse cy="53" rx="46" ry="18" fill="#050F25" opacity=".7"/>
+   <path d="M-36-10v54c0 17 72 17 72 0v-54" fill="url(#db)" stroke="#4E9EB5"/>
+   <ellipse cy="-10" rx="36" ry="13" fill="#194F68" stroke="#6EBCC9"/>
+   <path d="M-36 8c0 17 72 17 72 0m-72 18c0 17 72 17 72 0" fill="none" stroke="#69B2C3" opacity=".7"/>
+   <path d="M-28-14c15-8 37-7 54 0" fill="none" stroke="#9CE7EF" opacity=".5"/>
+   <text x="-13" y="78" fill="#A7DCEC" font-family="Consolas, 'Liberation Mono', monospace" font-size="13">SQL</text>
+  </g>
+  <path d="M524 288C640 345 779 215 896 275" fill="none" stroke="#55E8F5" opacity=".28" stroke-width="2"/>
+  <circle cx="524" cy="288" r="8" fill="#55E8F5" opacity=".45" filter="url(#bloom)"/>
+  <circle cx="524" cy="288" r="3" fill="#CEFCFF"/>
+  <path d="M645 361l43 23m141-4 32-17" stroke="#4AD9ED" stroke-width="3" opacity=".7" stroke-linecap="round"/>
+ </g>
+ <rect x="1" y="1" width="998" height="438" rx="22" fill="none" stroke="url(#edge)" stroke-opacity=".5"/>
+ </svg>
