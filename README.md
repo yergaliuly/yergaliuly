@@ -7,9 +7,9 @@
 
 **Java Backend · Applied AI**
 
-[Explore the builds](#lab-builds) ·
-[Toolkit](#toolkit) ·
-[Open the lab](#lab-notes) ·
+[Explore the builds](#user-content-lab-builds) ·
+[Toolkit](#user-content-toolkit) ·
+[Open the lab](#user-content-lab-notes) ·
 [LinkedIn](https://www.linkedin.com/in/daniyar-yergalyuly-8b6363447/) ·
 [KDvibers](https://github.com/KDvibers)
 
