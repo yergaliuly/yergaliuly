@@ -118,7 +118,8 @@ git status --short --branch
 git remote -v
 ```
 
-Проверь текущую ветку и назначение `yergaliuly/yergaliuly`. Эта переработка готовится в `profile/professional-portfolio`, цель публикации — `main`.
+Проверь текущую ветку и назначение `yergaliuly/yergaliuly`. Публикуемая ветка — `main`.
+Для подготовки изменений можно использовать отдельную ветку, как `profile/professional-portfolio` при этой переработке.
 `git diff --stat` даёт сводку, `git diff` — правки, ещё не подготовленные к коммиту:
 
 ```powershell

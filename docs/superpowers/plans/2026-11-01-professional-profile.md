@@ -57,7 +57,9 @@
 - [x] Replace outdated style/stack rules while preserving Git safety and truthful-content rules; explain catalog updates, image paths and account settings.
 - [x] Review the full diff as a separate self-review pass; use explicit staged paths and run `git diff --cached --check`.
 - [x] Create a local implementation commit and a concrete publication review with destination, file list and limitations. Do not push yet.
-- [ ] After publication approval, verify the real profile at 1280 px and 390 px and save genuine screenshots; report any unavailable theme check.
+- [x] After publication approval, verify the real profile at 1280 px and 390 px and save genuine screenshots; report any unavailable theme check.
+
+Publication: implementation `539cdf9` is in public `main`. Both widths passed in the dark theme; light theme was not separately checked. Catalog and PDF are accessible. Verification evidence is recorded in `docs/PROFILE_REDESIGN_STATUS.md`.
 
 ## Execution rulings
 
