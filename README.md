@@ -23,11 +23,31 @@ A few things I've been building with the team:
 
 ## Stack
 
-**Backend:** Java, Spring Boot, PostgreSQL, SQL, REST, WebSocket.
+**Backend & data**
 
-**Applied AI:** Python, Qwen3-VL, llama.cpp, PyAV, Pillow.
+![Java](assets/badges/java.svg)
+![Spring Boot](assets/badges/spring-boot.svg)
+![PostgreSQL](assets/badges/postgresql.svg)
+![SQL](assets/badges/sql.svg)
+![REST](assets/badges/rest.svg)
+![WebSocket](assets/badges/websocket.svg)
 
-**Tools:** Docker, Git, Maven, GitHub Actions, JUnit, Testcontainers.
+**Applied AI**
+
+![Python](assets/badges/python.svg)
+![Qwen3-VL](assets/badges/qwen3-vl.svg)
+![llama.cpp](assets/badges/llama-cpp.svg)
+![PyAV](assets/badges/pyav.svg)
+![Pillow](assets/badges/pillow.svg)
+
+**Tools & delivery**
+
+![Docker](assets/badges/docker.svg)
+![Git](assets/badges/git.svg)
+![Maven](assets/badges/maven.svg)
+![GitHub Actions](assets/badges/github-actions.svg)
+![JUnit](assets/badges/junit.svg)
+![Testcontainers](assets/badges/testcontainers.svg)
 
 [Full stack and project context](docs/STACK.md)
 
