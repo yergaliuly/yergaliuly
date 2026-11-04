@@ -27,7 +27,7 @@ backend and web interface.
 
 Git, Maven, Docker, GitHub Actions, JUnit, Testcontainers and OpenAPI.
 My completed coursework also covers Selenium and Postman;
-see the [course and program records](CERTIFICATIONS.md).
+see my [selected Coursera certificates](CERTIFICATIONS.md).
 
 ## Across our team projects
 

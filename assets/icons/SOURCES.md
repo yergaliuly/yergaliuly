@@ -16,6 +16,10 @@ The SVG artwork comes from [Devicon](https://github.com/devicons/devicon), pinne
 | `react.svg` | [react-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/react/react-original.svg) |
 | `nodejs.svg` | [nodejs-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nodejs/nodejs-original.svg) |
 | `kotlin.svg` | [kotlin-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/kotlin/kotlin-original.svg) |
+| `github.svg` | [github-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/github/github-original.svg) |
+| `linkedin.svg` | [linkedin-original.svg](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/linkedin/linkedin-original.svg) |
+
+The GitHub and LinkedIn originals were fetched from the same pinned revision on 2026-11-04 for the owner's requested social-link badges.
 
 The Spring leaf identifies the Spring ecosystem; the README names the specific technology, Spring Boot, in readable text.
 
