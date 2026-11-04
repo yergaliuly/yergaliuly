@@ -2,11 +2,11 @@
 
 - This repository is the GitHub Profile README for `yergaliuly/yergaliuly`, not a website or an application.
 - Explain actions, commands, and results to the owner in Russian. Keep the public profile text in natural English; keep `docs/PROFILE_GUIDE.md` in Russian.
-- Preserve the owner's Daniyar's Lab direction and requested Future Lab refinement: a holographic workbench, purple/cyan light, original dimensional project covers, named technology cards and native disclosure blocks. Keep the verified professional content and readable native text.
+- Preserve the owner's current quiet professional direction, requested on 2026-11-04 with lengway as a reference: concise native text, clear project descriptions and readable technology names. The owner explicitly replaced the previous Lab/neon direction.
 - Preserve original files and history, including the unused PNGs, legacy `assets/marin.gif`, icons and licenses. New vector graphics must be self-contained; preserve asset proportions and inspect their render before delivery.
-- Keep the composition: one animated hero, native-text identity/LinkedIn, concise JSON About, four Lab builds, named toolkit, `open /lab`, Proof of work and a quiet ending. Keep the full credential catalog in `docs/CERTIFICATIONS.md`.
-- Toolkit panels have desktop (four columns) and mobile (two columns) SVG variants, selected by a `picture/source` media query. Preserve readable names, original logo artwork and native text equivalents. Do not add proficiency percentages or represent a teammate's stack as personal mastery.
-- Limit motion to the hero's calm 6–8 second local GIF, without flashing or invented activity indicators. Preserve its static SVG and use the reduced-motion picture source when supported. Do not add running services or statistics workflows for decoration.
+- Keep the composition: name, short introduction with AITU/KDvibers and LinkedIn, four concise team projects, three text rows of core technologies and learning links. Keep the full stack/context in `docs/STACK.md` and the credential catalog in `docs/CERTIFICATIONS.md`.
+- Do not reintroduce banners, animation, neon panels, technology cards, JSON biographies, badge walls or decorative terminal/disclosure widgets into the current README. Let GitHub supply the typography and visitor's theme.
+- Preserve all former Lab illustrations, GIFs, icon originals and licenses as unused historical resources. Do not add running services or statistics workflows for decoration.
 - The mockup is visual guidance, not evidence of profile facts. Never reproduce fake achievements, decorative star counts or unsupported metrics.
 - Check side-by-side layouts at narrow widths. Use a vertical layout if tables or floats harm readability; do not promise a pixel-perfect copy of the mockup.
 - Keep image paths relative, filenames case-correct, and alt text descriptive. Use Markdown and GitHub-supported HTML; no custom CSS, scripts, or embeds in the README.
@@ -16,7 +16,7 @@
 - Use the verified LinkedIn URL `https://www.linkedin.com/in/daniyar-yergalyuly-8b6363447/`; never substitute the LinkedIn feed URL. The HackAlem PDF is an unchanged source certificate, not an editable design asset.
 - Keep local references, source videos, preview files, credentials, and unrelated files out of commits. Review the diff and stage explicit file paths.
 - Preserve existing history and user edits. Do not use force push, destructive resets, or change global Git settings.
-- Before any publication or account/repository setting change, show the exact files, destination, and visibility, then obtain the owner's confirmation. Verify that the authenticated account is `yergaliuly` before remote changes.
+- Before publication, review and name the exact files, destination and visibility; verify that the authenticated account is `yergaliuly`. Reuse the owner's existing authorization within its scope instead of requesting the same permission again. For an unapproved destination, visibility change or account/repository setting change, prepare the concrete result and obtain the owner's specific confirmation.
 - After publication, verify the default branch and the README on the actual profile page. Keep the guide aligned with the README.
 - Avatar, bio, theme, and pinned repositories are separate account settings. Prepare assets and instructions, but obtain specific approval before applying account changes.
 - Follow the owner's preference for one agent and proportionate checks. Use `docs/PROFILE_REDESIGN_STATUS.md` and the approved design/plan to resume without repeating completed research.
