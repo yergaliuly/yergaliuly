@@ -14,7 +14,7 @@ Java and PostgreSQL are also part of our
 [FocusDuo](https://github.com/KDvibers/FocusDuo) and
 [StudyMate](https://github.com/yergaliuly/StudyMate) projects.
 
-## Applied AI
+## Additional project tooling
 
 Python, local vision-language models, Qwen3-VL, llama.cpp, PyAV and Pillow.
 

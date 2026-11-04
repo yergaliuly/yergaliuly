@@ -1,9 +1,9 @@
 # Daniyar Yergalyuly
 
-Backend development & applied AI.
+Java Backend Developer.
 
-I'm a student at Astana IT University, working on backend services and
-local AI tools with [KDvibers](https://github.com/KDvibers).
+I'm a student at Astana IT University, building Java backend services
+with [KDvibers](https://github.com/KDvibers).
 
 [LinkedIn](https://www.linkedin.com/in/daniyar-yergalyuly-8b6363447/)
 
@@ -31,14 +31,6 @@ A few things I've been building with the team:
 ![SQL](assets/badges/sql.svg)
 ![REST](assets/badges/rest.svg)
 ![WebSocket](assets/badges/websocket.svg)
-
-**Applied AI**
-
-![Python](assets/badges/python.svg)
-![Qwen3-VL](assets/badges/qwen3-vl.svg)
-![llama.cpp](assets/badges/llama-cpp.svg)
-![PyAV](assets/badges/pyav.svg)
-![Pillow](assets/badges/pillow.svg)
 
 **Tools & delivery**
 
